@@ -5,4 +5,5 @@ Its logic map:
 
 (Spoiler alert)
 
-![Logic map](https://github.com/user-attachments/assets/0e62ba92-5d29-4530-9289-50902a354012)
+![Logic map](https://github.com/user-attachments/assets/8dab9df3-b86c-47da-af39-7a20291ef89c)
+
